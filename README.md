@@ -19,27 +19,19 @@ The project is divided into two main files:
 - C++ compiler (e.g., g++, clang++)
 - Basic knowledge of terminal or command prompt usage
 
-### Compiling and Running the Code
-To compile and run the project, use the following command in a terminal or command prompt where your C++ compiler is accessible:
-
-```bash
-g++ [main_file_name].cpp -o SUBook
-./SUBook
-Replace [main_file_name] with the name of your main C++ file.
-
-#Usage
+# Usage
 
 After running the executable, the program simulates social media interactions, allowing the creation of users and posts, and adding comments to these posts.
 
-#Author
+# Author
 
 Yusuf Erkam KÖKSAL
 
-#Contact
+# Contact
 
 Email: yusuferkamkoksal@outlook.com
 GitHub: www.github.com/yerkamkoksal/
 
-#License
+# License
 
 This project is open source and available under the MIT License.
